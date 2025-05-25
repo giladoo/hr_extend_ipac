@@ -10,14 +10,15 @@
             <xpath expr="//page[@name='skills_resume']" position="inside">
                 <group>
                     <field name="resume_extend" readonly="1" invisible="1"/>
-                    <field name="resume_education"/>
-                    <field name="resume_experience"/>
-                    <field name="resume_projects"/>
-                    <field name="resume_capabilities"/>
-                    <field name="resume_qualifications"/>
-                    <field name="resume_software"/>
-                    <field name="resume_trainings"/>
-                    <field name="resume_awards"/>
+<!--                    <button string="Resume" name="open_resume_record" type="object" class="btn btn-primary" ></button>-->
+<!--                    <field name="resume_education"/>-->
+<!--                    <field name="resume_experience"/>-->
+<!--                    <field name="resume_projects"/>-->
+<!--                    <field name="resume_capabilities"/>-->
+<!--                    <field name="resume_qualifications"/>-->
+<!--                    <field name="resume_software"/>-->
+<!--                    <field name="resume_trainings"/>-->
+<!--                    <field name="resume_awards"/>-->
                 </group>
             </xpath>
         </field>

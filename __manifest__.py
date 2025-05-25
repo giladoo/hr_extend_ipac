@@ -27,8 +27,8 @@
     'data': [
         'security/ir.model.access.csv',
         'views/hr_employee_views.xml',
-        'report/resume_en.xml',
-        'report/resume_en_template.xml',
+        # 'report/resume_en.xml',
+        # 'report/resume_en_template.xml',
 
     ],
     'assets': {
